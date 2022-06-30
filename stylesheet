@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'tahoma';
+    src: url('https://cdn.rawgit.com/notreallysurewhattowrite/stillunsure/main/GuruMeditationNbp-GynZ.eot');
+    src: url('https://cdn.rawgit.com/notreallysurewhattowrite/stillunsure/main/GuruMeditationNbp-GynZ.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/notreallysurewhattowrite/stillunsure/main/GuruMeditationNbp-GynZ.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/notreallysurewhattowrite/stillunsure/main/GuruMeditationNbp-GynZ.woff') format('woff'),
+         url('https://cdn.rawgit.com/notreallysurewhattowrite/stillunsure/main/GuruMeditationNbp-GynZ.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/notreallysurewhattowrite/stillunsure/main/GuruMeditationNbp-GynZ.svg') format('svg');
+    font-weight: 100;
+    font-style: normal;
+} 
